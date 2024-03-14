@@ -23,4 +23,5 @@ To play the game, open the `index.html` file in a web browser. Players take turn
 Enjoy playing Connect Four!
 
 ## Preview
-<img width="661" alt="image" src="https://github.com/Courtneyquinn123/Connect4/assets/49349562/8c8761dd-1c2d-496f-a0ff-2474b17e590e">
+<img width="424" alt="image" src="https://github.com/Courtneyquinn123/Connect4/assets/49349562/6129e467-1936-4bb5-ace1-92efc8e4e57b">
+
